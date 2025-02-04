@@ -1,6 +1,6 @@
-#Ingreidients
+# Ingreidients
 -peas
 -springonions
 -potato
-#Instructions
-
+# Instructions
+-shell the peas
