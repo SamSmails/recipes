@@ -1,6 +1,7 @@
-#Ingreidients
+# Ingreidients
 -peas
 -springonions
 -potato
-#Instructions
+# Instructions
+- put peas into pan
 
