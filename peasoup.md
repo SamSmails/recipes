@@ -1,6 +1,8 @@
 # Ingreidients
--peas
--springonions
--potato
+- peas
+- springonions
+- potato
 # Instructions
--shell the peas
+- shell the peas
+- put peas into pan
+
